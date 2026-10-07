@@ -37,7 +37,7 @@ public class Campsite {
     public String getContactInformation() {
         return contactInformation;
     }
-
+//
     public void setContactInformation(String contactInformation) {
         this.contactInformation = contactInformation;
     }
